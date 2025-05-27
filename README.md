@@ -1,5 +1,5 @@
 # Externi komponenta `mqtt_mac` pro ESPHome
-
+https://github.com/esphome/issues/issues/3047
 ## Ucel
 Komponenta `mqtt_mac` automaticky nastavuje prefix vsech MQTT temat ve tvaru:
 
