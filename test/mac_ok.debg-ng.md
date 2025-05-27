@@ -1,3 +1,23 @@
+### esp
+
+- `esp/status`
+- `esp/status/debug`
+
+### habox5-dev-topic-f490f0
+
+- `habox5-dev-topic-f490f0/sensor/habox_esphome_verze/state`
+- `habox5-dev-topic-f490f0/sensor/habox_ip_adresa/state`
+- `habox5-dev-topic-f490f0/sensor/habox_mac_adresa/state`
+- `habox5-dev-topic-f490f0/sensor/habox_uptime/state`
+- `habox5-dev-topic-f490f0/sensor/mac_prefix/state`
+- `habox5-dev-topic-f490f0/sensor/mqtt_topic_prefix/state`
+- `habox5-dev-topic-f490f0/switch/esp_factory_reset/state`
+- `habox5-dev-topic-f490f0/switch/esp_safe_mode/state`
+- `habox5-dev-topic-f490f0/switch/esp_shutdown/state`
+
+
+
+```
 esphome:
   name: habox5-dev-topic
   friendly_name: habox5-dev-topic
@@ -189,4 +209,4 @@ i2c:
   scan: true
   frequency: "300000"
 
-
+```
