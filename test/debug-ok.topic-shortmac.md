@@ -1,7 +1,9 @@
 
 habox/unit/habox5-dev-topic/b0b21cf490f0/esp/status/debug
 
+
 habox5-dev-topic-f490f0/sensor/habox_uptime/state
+
 
 ```
 esphome:
